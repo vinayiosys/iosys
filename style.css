@@ -193,8 +193,9 @@ body {
 
     #section-b li 
     {
-      width: 31%;
-      display: flex;
+      
+       width: 31%;
+       display: flex;
       justify-content: space-around;
     }
 
